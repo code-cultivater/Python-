@@ -1,2 +1,3 @@
  this is a branch test!
  this is for confilicts testing!
+ this is test for bugs branch !
